@@ -30,7 +30,7 @@ Names of folders containing documentation are: Documentation_Q1 and Documentatio
 
 <h4>A logging utility has been maintained for Q2 in the form of a text file "log.txt" which can be found here: 
 \LIT2015021-Q2\build\classes</h4>
-<br> Other text files girl_names.txt, by_names.txt, rand_girls.txt, rand_boys.txt and rand_gifts.txt an also be found here:
+<br> Other text files girl_names.txt, boy_names.txt, rand_girls.txt, rand_boys.txt and rand_gifts.txt that have been used can also be found here:
 \LIT2015021-Q2\build\classes and \LIT2015021-Q1\build\classes
 
 Regards,
