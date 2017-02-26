@@ -19,13 +19,13 @@ OS Type : 64 bit<p>
 <h4><u>Class Diagram</u> :</h4>
 <hr>
 The class diagram for each question has been made separately and can be found in the respective folder of the questions, LIT2015021-Q1 and LIT2015021-Q2.
-<hr>
+<br>
 Names of the files: ClassDiagram_Q1.pdf and ClassDiagram_Q2.pdf
 
 <h4><u>Documentation</u> :</h4>
 <hr>
 Documentation of each question is done separately and can be found in the respective folder of the questions,  LIT2015021-Q1 and LIT2015021-Q2.
-<hr>
+<br>
 Names of folders containing documentation are: Documentation_Q1 and Documentation_Q2.
 
 <h4>A logging utility has been maintained for Q2 in the form of a text file "log.txt" which can be found here: 
