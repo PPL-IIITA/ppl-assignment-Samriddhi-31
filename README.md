@@ -20,7 +20,7 @@ OS Type : 64 bit<p>
 <hr>
 The class diagram for each question has been made separately and can be found in the respective folder of the questions, LIT2015021-Q1 and LIT2015021-Q2.
 <br>
-Names of the pdf files are: ClassDiagram_Q1 and ClassDiagram_Q2
+Names of the pdf files are: ClassDiagram_Q1.pdf and ClassDiagram_Q2.pdf
 
 <h4><u>Documentation</u> :</h4>
 <hr>
@@ -32,5 +32,7 @@ Names of folders containing documentation are: Documentation_Q1 and Documentatio
 \LIT2015021-Q2\build\classes</h4>
 
 Regards,
+<br>
 Samriddhi Niranjan
+<br>
 LIT2015021
