@@ -1,0 +1,10 @@
+STEP 1) Set the current working directory path to the path wherein the project "LIT2015021-Q9" is present.
+
+STEP 2) Change the path to LIT2015021-Q9\classes by typing the command:
+
+"cd LIT2015021-Q9\classes"
+
+STEP 3) Now on the command prompt, type:
+
+"java PPL_9.LIT2015021_Q9"
+
