@@ -26,20 +26,20 @@ The class diagram for each question has been made separately.<br>
 <h3>The directories for Q3-Q10 are :</h3>
 <hr>
 <br>LIT2015021-Q3 for Q3<br>LIT2015021-Q44 for Q4<br>LIT2015021-Q55 for Q5<br>LIT2015021-Q66 for Q6<br>LIT2015021-Q7 for Q7<br>LIT2015021-Q8 for Q8<br>LIT2015021-Q9 for Q9<br>LIT2015021-Q10 for Q10
-<br>They are present in repository's directory "Samriddhi-31"
+<br>They are present in repository's directory "ppl-assignment-Samriddhi-31"
 <br>
 Each folder contains the "src" folder (containing the source files), the files "how_to_build.txt" and "how_to_run.txt" and "how_to_generate_documentation.txt".
 <br>
 <br>
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-Class Diagrams  for Q3-Q10 are present in the repository's directory "Samriddhi-31"
+Class Diagrams  for Q3-Q10 are present in the repository's directory "ppl-assignment-Samriddhi-31"
 <br>
 <h5>Names of the pdf files are:</h5> <br>ClassDiagram_Q3.pdf for Q3, <br>ClassDiagram_Q4.pdf for Q4, <br>ClassDiagram_Q5.pdf for Q5, <br>ClassDiagram_Q6.pdf for Q6,<br>ClassDiagram_Q7.pdf for Q7,<br>ClassDiagram_Q8.pdf for Q8,<br>ClassDiagram_Q9.pdf for Q9 and<br>ClassDiagram_Q10.pdf for Q10
 
 <h4><u>Documentation</u> :</h4>
 <hr>
-Folders containing documentation for Q3-Q10 are present in the repository's directory "Samriddhi-31"
+Folders containing documentation for Q3-Q10 are present in the repository's directory "ppl-assignment-Samriddhi-31"
 <br>
 <h5>Names of folders containing documentation are:</h5> <br>Documentation_Q3 for Q3,<br>Documentation_Q4 for Q4,<br>Documentation_Q5 for Q5,<br>Documentation_Q6 for Q6,<br>Documentation_Q7 for Q7, <br>Documentation_Q8 for Q8,<br>Documentation_Q9 for Q9 and <br>Documentation_Q10 for Q10  
 
@@ -52,23 +52,24 @@ Folders containing documentation for Q3-Q10 are present in the repository's dire
 <h3>Commands To build and run each question (NOTE: Detailed instructions are available in files "how_to_build.txt" and "how_to_run.txt provided separately for each question in the question's directory"</h3>
 <p>for eg. the files "how_to_build.txt" and "how_to_run.txt" and "how_to_generate_documentation.txt" for Q3 are present in directory "LIT2015021-Q3"
 <hr>
-First set current working directory to repository's directory(where the folders for each question are present). (eg. "cd ppl-assignment-Samriddhi-31")
+First set current working directory to repository's directory(where the folders for each question are present)using command:<br>
+cd ppl-assignment-Samriddhi-31
 <br><br>
-For Q3:<br>
+Commands For Q3:<br>
 cd LIT2015021-Q3<br>ant<br>cd classes<br>java PPL_3.LIT2015021_Q3<br><br>
-For Q4:<br>
+Commands For Q4:<br>
 cd LIT2015021-Q44<br>ant<br>cd classes<br>java LIT2015021_Q4<br><br>
-For Q5:<br>
+Commands For Q5:<br>
 cd LIT2015021-Q55<br>ant<br>cd classes<br>java LIT2015021_Q5<br><br>
-For Q6:<br>
+Commands For Q6:<br>
 cd LIT2015021-Q66<br>ant<br>cd classes<br>java PPL_66.LIT2015021_Q6<br><br>
-For Q7:<br>
+Commands For Q7:<br>
 cd LIT2015021-Q7<br>ant<br>cd classes<br>java PPL_7.LIT2015021_Q7<br><br>
-For Q8:<br>
+Commands For Q8:<br>
 cd LIT2015021-Q8<br>ant<br>cd classes<br>java PPL_8.LIT2015021_Q8<br><br>
-For Q9:<br>
+Commands For Q9:<br>
 cd LIT2015021-Q9<br>ant<br>cd classes<br>java PPL_9.LIT2015021_Q9<br><br>
-For Q10:<br>
+Commands For Q10:<br>
 cd LIT2015021-Q10<br>ant<br>cd classes<br>java PPL_10.LIT2015021_Q10<br><br>
 <br>
 <hr>
