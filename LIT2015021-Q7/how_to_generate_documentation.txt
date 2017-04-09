@@ -1,0 +1,7 @@
+In the command prompt change the current working directory to:
+LIT2015021-Q7
+
+Type the command: "ant javadocs" on command prompt
+
+
+A folder "docs"  will be created in the directory "LIT2015021-Q7" where the documentation of the project will be generated.
