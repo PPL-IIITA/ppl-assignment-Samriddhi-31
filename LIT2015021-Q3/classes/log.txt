@@ -1,0 +1,167 @@
+
+Sun Apr 09 23:15:31 IST 2017 Rosie commited to Sam
+
+Sun Apr 09 23:15:31 IST 2017 Elizabeth commited to Varun
+
+Sun Apr 09 23:15:31 IST 2017 Pranati commited to Aman
+
+Sun Apr 09 23:15:31 IST 2017 Kritika commited to Ron
+
+Sun Apr 09 23:15:31 IST 2017 Neha commited to Chandler
+
+Sun Apr 09 23:15:31 IST 2017 Susain commited to Arthur
+
+Sun Apr 09 23:15:31 IST 2017 Mary commited to Benedict
+
+Sun Apr 09 23:15:31 IST 2017 Fariha commited to Reginald
+
+Sun Apr 09 23:15:31 IST 2017 Palak commited to Thomas
+
+Sun Apr 09 23:15:31 IST 2017 Rosalind commited to Barry
+
+Sun Apr 09 23:15:31 IST 2017 Lily commited to Ted
+
+Sun Apr 09 23:15:31 IST 2017 Hermione commited to Albus
+
+Sun Apr 09 23:15:31 IST 2017 Sam sent gift to Rosie: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Sam sent gift to Rosie: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Sam sent gift to Rosie: Gift price = 498 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Sam sent gift to Rosie: Gift price = 496 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Sam sent gift to Rosie: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Sam sent gift to Rosie: Gift price = 493 Gift Type = Luxury
+Total cost of gifts = 2978
+
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 121 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Varun sent gift to Elizabeth: Gift price = 400 Gift Type = Luxury
+Total cost of gifts = 1281
+
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 121 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 123 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 124 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 131 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 132 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Aman sent gift to Pranati: Gift price = 134 Gift Type = Utility
+Total cost of gifts = 1525
+
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 121 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 123 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ron sent gift to Kritika: Gift price = 400 Gift Type = Luxury
+Total cost of gifts = 1404
+
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 498 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 496 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 491 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 490 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 489 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Chandler sent gift to Neha: Gift price = 488 Gift Type = Luxury
+Total cost of gifts = 4936
+
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 121 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 123 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 124 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 131 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Arthur sent gift to Susain: Gift price = 400 Gift Type = Luxury
+Total cost of gifts = 1659
+
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 498 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 496 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Benedict sent gift to Mary: Gift price = 491 Gift Type = Luxury
+Total cost of gifts = 3469
+
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Reginald sent gift to Fariha: Gift price = 400 Gift Type = Luxury
+Total cost of gifts = 1160
+
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 121 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 123 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 124 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Thomas sent gift to Palak: Gift price = 400 Gift Type = Luxury
+Total cost of gifts = 1528
+
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 498 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 496 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 491 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 490 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Barry sent gift to Rosalind: Gift price = 489 Gift Type = Luxury
+Total cost of gifts = 4448
+
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 101 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 106 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 111 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 111 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 114 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 116 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 121 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 123 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 124 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 131 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 132 Gift Type = Essential
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 134 Gift Type = Utility
+Sun Apr 09 23:15:31 IST 2017 Ted sent gift to Lily: Gift price = 400 Gift Type = Luxury
+Total cost of gifts = 1925
+
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 499 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 498 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 496 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 493 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 491 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 490 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 489 Gift Type = Luxury
+Sun Apr 09 23:15:31 IST 2017 Albus sent gift to Hermione: Gift price = 488 Gift Type = Luxury
+Total cost of gifts = 4936
