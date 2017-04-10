@@ -8,5 +8,5 @@ STEP 2) Change the path to LIT2015021-Q44\classes by typing the command:
 
 STEP 3) Now on the command prompt, type:
 
-"java LIT2015021_Q44"
+"java LIT2015021_Q4"
 
