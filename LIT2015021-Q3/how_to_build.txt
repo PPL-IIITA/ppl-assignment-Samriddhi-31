@@ -7,13 +7,15 @@ In the command prompt, set current directory to:
 ppl-assignment-Samriddhi-31\LIT2015021-Q3
 (that is, the project folder for Q3 inside the repository's directory)
 
+After this,
+Just type "ant" in the command prompt.
+
 NOTE: Create a folder "classes" in  "LIT2015021-Q3" if not already present and copy the text files "girl_names.txt" and "boy_names.txt" into it.
 A copy of these text files should also remain in the directory "LIT2015021-Q3". 
 
 The build.xml file is given in the folder "LIT2015021-Q3".
 
-After changing current directory to "LIT2015021-Q3",
-Just type "ant" in the command prompt.
+
 
 So, the commands to be typed are (without quotes):
 "cd LIT2015021-Q3"
