@@ -3,9 +3,9 @@ OS used: Windows10 64-bit
 
 The project can be built using ANT on Windows10.
 
-In the command prompt, change the current working directory to:
-LIT2015021-Q3
-(that is, the project folder)
+In the command prompt, set current directory to:
+ppl-assignment-Samriddhi-31\LIT2015021-Q3
+(that is, the project folder for Q3 inside the repository's directory)
 
 NOTE: Create a folder "classes" in  "LIT2015021-Q3" if not already present and copy the text files "girl_names.txt" and "boy_names.txt" into it.
 A copy of these text files should also remain in the directory "LIT2015021-Q3". 
