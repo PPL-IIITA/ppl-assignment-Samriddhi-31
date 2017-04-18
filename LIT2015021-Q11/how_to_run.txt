@@ -1,3 +1,5 @@
+Perform these steps after building the source files.
+
 STEP 1) Set the current working directory path to the path wherein the project "LIT2015021-Q11" is present.
 
 STEP 2) Change the path to LIT2015021-Q11\classes by typing the command:
