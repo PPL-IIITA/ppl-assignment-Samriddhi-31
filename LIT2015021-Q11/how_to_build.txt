@@ -6,12 +6,13 @@ The project can be built using ANT on Windows10.
 In the command prompt, change the current directory to:
 LIT2015021-Q11
 
+After changing the current working directory to "LIT2015021-Q11",
+Just type "ant" in the command prompt.
+
+
 NOTE: Create a folder "classes" in the folder "LIT2015021-Q11" if not already present and copy the text files "girl_names.txt" and "boy_names.txt" into it.
 A copy of these text files should also remain in the directory "LIT2015021-Q11". 
 
 The build.xml file is given in the folder "LIT2015021-Q11". 
-
-After changing the current working directory to "LIT2015021-Q11",
-Just type "ant" in the command prompt.
 
 The .class files of all the java files will be built in the folder "classes".
